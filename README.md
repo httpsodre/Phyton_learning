@@ -35,10 +35,6 @@ O plano de desenvolvimento abaixo delineia as habilidades adquiridas e as futura
 A seguir, uma seleção de projetos desenvolvidos para demonstrar a aplicação prática dos conceitos estudados.
 
 | Projeto | Módulo Associado | Descrição Técnica |
-| :--- | :---: | :--- |
-| **Analisador de Frequência de Palavras**| M02 | Script que processa arquivos de texto (`.txt`) para extrair e quantificar a ocorrência de palavras, utilizando dicionários para alta performance. |
-| **Sistema Bancário Simplificado (CLI)**| M03 | Interface de linha de comando simulando operações bancárias (saque, depósito, extrato), aplicando conceitos de Orientação a Objetos. |
-| **[Próximo Projeto Planejado]** | M05/M06 | *[Ex: API para consulta de dados de mercado, utilizando `requests` e `FastAPI`]* |
 
 ---
 

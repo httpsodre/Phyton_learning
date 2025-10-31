@@ -18,9 +18,9 @@ O plano de desenvolvimento abaixo delineia as habilidades adquiridas e as futura
 
 | Status | Módulo | Competências Desenvolvidas |
 | :---: | :--- | :--- |
-| ✅ | **M01: Fundamentos de Python** | Lógica de programação, sintaxe, tipos de dados e operadores. |
-| ✅ | **M02: Estruturas e Coleções de Dados** | Estruturas de controle (`if`, `for`), manipulação de listas, dicionários e tuplas. |
-| 🔄 | **M03: Funções e Paradigma OO** | Modularização de código, classes, objetos, herança e encapsulamento. |
+| ⬜ | **M01: Fundamentos de Python** | Lógica de programação, sintaxe, tipos de dados e operadores. |
+| ⬜ | **M02: Estruturas e Coleções de Dados** | Estruturas de controle (`if`, `for`), manipulação de listas, dicionários e tuplas. |
+| ⬜ | **M03: Funções e Paradigma OO** | Modularização de código, classes, objetos, herança e encapsulamento. |
 | ⬜ | **M04: Módulos e Manipulação de Arquivos** | Interação com o sistema de arquivos, serialização de dados (JSON, CSV). |
 | ⬜ | **M05: APIs e Bibliotecas Essenciais** | Consumo de APIs REST (`requests`), análise de dados (`pandas`). |
 | ⬜ | **M06: Desenvolvimento Backend** | Construção de APIs RESTful com `FastAPI` ou `Flask`. |
